@@ -1,0 +1,12 @@
+body{
+    background-color: #333;
+    align-items: center; 
+}
+.clock{
+    color:yellowgreen ;
+    font-size: 6em;
+    font-family: arial;
+    text-align: center;
+    margin: 250px auto;
+
+}
